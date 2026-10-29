@@ -1,0 +1,15 @@
+{
+  "audio": "C:\\Users\\nunci\\OneDrive\\Escritorio\\podcast442.mp3",
+  "bg": "C:/Users/nunci/OneDrive/Imágenes/image.png",
+  "out": "C:/Users/nunci/OneDrive/Escritorio/podcast442.mp4",
+  "res": "1280x720 (HD)",
+  "fps": "30",
+  "colormap": "intensity",
+  "spectrum_size": "Normal (80%)",
+  "blur": false,
+  "preset": "veryfast",
+  "crf": "Alta (18)",
+  "color": "white",
+  "wave_mode": "Linea (p2p)",
+  "position": "Abajo"
+}
